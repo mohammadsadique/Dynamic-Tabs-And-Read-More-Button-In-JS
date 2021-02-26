@@ -24,11 +24,12 @@
 ## Read More Button 
    Dynamic code use any where
 
-   Just call this script in your page and pass two things: 1. TextLength, 2. Text
-  function is `ReadMore(TextLength,Text)`
-  <script type="text/javascript">
-      document.write(ReadMore(5,"'.$nonconfigdatas->description.'"))
-   </script>
+      Example: 
+      Just call this script in your page and pass two things: 1. TextLength, 2. Text
+      function is `ReadMore(TextLength,Text)`
+      <script type="text/javascript">
+         document.write(ReadMore(5,"'.$nonconfigdatas->description.'"))
+      </script>
 
-   ReadMore() function
-  ReadMore(TextLength,FullText)
+      ReadMore() function
+      ReadMore(TextLength,FullText)
