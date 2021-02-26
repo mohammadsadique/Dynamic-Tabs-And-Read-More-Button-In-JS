@@ -16,8 +16,8 @@
           <div id="nonconfigurable" class="tab-pane"></div>
       </div>
 
-      // CustomTabs
-      // CustomTabContent
+      CustomTabs
+      CustomTabContent
     
     
 
